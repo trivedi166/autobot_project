@@ -104,7 +104,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libturtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libturtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.so"
-         OLD_RPATH "/opt/ros/jazzy/lib:/home/abhi169/autobot_ws/build/turtlebot3_msgs:"
+         OLD_RPATH "/home/abhi169/autobot_ws/build/turtlebot3_msgs:/opt/ros/jazzy/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libturtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.so")

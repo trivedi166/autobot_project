@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/turtlebot3_auto/turtlebot3_auto.egg-info/PKG-INFO
+../../build/turtlebot3_auto/turtlebot3_auto.egg-info/SOURCES.txt
+../../build/turtlebot3_auto/turtlebot3_auto.egg-info/dependency_links.txt
+../../build/turtlebot3_auto/turtlebot3_auto.egg-info/requires.txt
+../../build/turtlebot3_auto/turtlebot3_auto.egg-info/top_level.txt
+../../build/turtlebot3_auto/turtlebot3_auto.egg-info/zip-safe
+resource/turtlebot3_auto
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+turtlebot3_auto/__init__.py

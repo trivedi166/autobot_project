@@ -1,0 +1,32 @@
+[1.693s] Invoking command in '/home/abhi169/autobot_ws/src/turtlebot3_auto': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhi169/autobot_ws/build/turtlebot3_auto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhi169/autobot_ws/install/turtlebot3_auto/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_auto build --build-base /home/abhi169/autobot_ws/build/turtlebot3_auto/build install --record /home/abhi169/autobot_ws/build/turtlebot3_auto/install.log --single-version-externally-managed install_data
+[2.029s] running egg_info
+[2.029s] creating ../../build/turtlebot3_auto/turtlebot3_auto.egg-info
+[2.051s] writing ../../build/turtlebot3_auto/turtlebot3_auto.egg-info/PKG-INFO
+[2.051s] writing dependency_links to ../../build/turtlebot3_auto/turtlebot3_auto.egg-info/dependency_links.txt
+[2.052s] writing requirements to ../../build/turtlebot3_auto/turtlebot3_auto.egg-info/requires.txt
+[2.052s] writing top-level names to ../../build/turtlebot3_auto/turtlebot3_auto.egg-info/top_level.txt
+[2.052s] writing manifest file '../../build/turtlebot3_auto/turtlebot3_auto.egg-info/SOURCES.txt'
+[2.102s] reading manifest file '../../build/turtlebot3_auto/turtlebot3_auto.egg-info/SOURCES.txt'
+[2.103s] writing manifest file '../../build/turtlebot3_auto/turtlebot3_auto.egg-info/SOURCES.txt'
+[2.103s] running build
+[2.103s] running build_py
+[2.103s] creating /home/abhi169/autobot_ws/build/turtlebot3_auto/build
+[2.103s] creating /home/abhi169/autobot_ws/build/turtlebot3_auto/build/lib
+[2.104s] creating /home/abhi169/autobot_ws/build/turtlebot3_auto/build/lib/turtlebot3_auto
+[2.104s] copying turtlebot3_auto/__init__.py -> /home/abhi169/autobot_ws/build/turtlebot3_auto/build/lib/turtlebot3_auto
+[2.104s] running install
+[2.111s] running install_lib
+[2.136s] creating /home/abhi169/autobot_ws/install/turtlebot3_auto/lib/python3.12/site-packages/turtlebot3_auto
+[2.136s] copying /home/abhi169/autobot_ws/build/turtlebot3_auto/build/lib/turtlebot3_auto/__init__.py -> /home/abhi169/autobot_ws/install/turtlebot3_auto/lib/python3.12/site-packages/turtlebot3_auto
+[2.136s] byte-compiling /home/abhi169/autobot_ws/install/turtlebot3_auto/lib/python3.12/site-packages/turtlebot3_auto/__init__.py to __init__.cpython-312.pyc
+[2.136s] running install_data
+[2.137s] creating /home/abhi169/autobot_ws/install/turtlebot3_auto/share/ament_index
+[2.137s] creating /home/abhi169/autobot_ws/install/turtlebot3_auto/share/ament_index/resource_index
+[2.137s] creating /home/abhi169/autobot_ws/install/turtlebot3_auto/share/ament_index/resource_index/packages
+[2.137s] copying resource/turtlebot3_auto -> /home/abhi169/autobot_ws/install/turtlebot3_auto/share/ament_index/resource_index/packages
+[2.137s] copying package.xml -> /home/abhi169/autobot_ws/install/turtlebot3_auto/share/turtlebot3_auto
+[2.137s] running install_egg_info
+[2.161s] Copying ../../build/turtlebot3_auto/turtlebot3_auto.egg-info to /home/abhi169/autobot_ws/install/turtlebot3_auto/lib/python3.12/site-packages/turtlebot3_auto-0.0.0-py3.12.egg-info
+[2.162s] running install_scripts
+[2.342s] writing list of installed files to '/home/abhi169/autobot_ws/build/turtlebot3_auto/install.log'
+[2.403s] Invoked command in '/home/abhi169/autobot_ws/src/turtlebot3_auto' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhi169/autobot_ws/build/turtlebot3_auto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhi169/autobot_ws/install/turtlebot3_auto/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_auto build --build-base /home/abhi169/autobot_ws/build/turtlebot3_auto/build install --record /home/abhi169/autobot_ws/build/turtlebot3_auto/install.log --single-version-externally-managed install_data
